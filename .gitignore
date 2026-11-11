@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.ipython/
+.jupyter/
+.matplotlib/
+.DS_Store
+logs/
+models/checkpoints/
+models/pong_ppo.zip
+artifacts/execution_status.json

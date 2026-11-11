@@ -1,0 +1,538 @@
+{
+  "history": [
+    {
+      "timesteps": 50000,
+      "elapsed_seconds": 116.4100561249943,
+      "mean_reward": -21.0,
+      "std_reward": 0.0,
+      "returns": [
+        -21.0,
+        -21.0,
+        -21.0,
+        -21.0,
+        -21.0
+      ]
+    },
+    {
+      "timesteps": 100000,
+      "elapsed_seconds": 272.78037441600463,
+      "mean_reward": -21.0,
+      "std_reward": 0.0,
+      "returns": [
+        -21.0,
+        -21.0,
+        -21.0,
+        -21.0,
+        -21.0
+      ]
+    },
+    {
+      "timesteps": 150000,
+      "elapsed_seconds": 395.5236841659935,
+      "mean_reward": -21.0,
+      "std_reward": 0.0,
+      "returns": [
+        -21.0,
+        -21.0,
+        -21.0,
+        -21.0,
+        -21.0
+      ]
+    },
+    {
+      "timesteps": 200000,
+      "elapsed_seconds": 510.25085362500977,
+      "mean_reward": -21.0,
+      "std_reward": 0.0,
+      "returns": [
+        -21.0,
+        -21.0,
+        -21.0,
+        -21.0,
+        -21.0
+      ]
+    },
+    {
+      "timesteps": 250000,
+      "elapsed_seconds": 623.0495618749992,
+      "mean_reward": -21.0,
+      "std_reward": 0.0,
+      "returns": [
+        -21.0,
+        -21.0,
+        -21.0,
+        -21.0,
+        -21.0
+      ]
+    },
+    {
+      "timesteps": 300000,
+      "elapsed_seconds": 810.4108157909941,
+      "mean_reward": -21.0,
+      "std_reward": 0.0,
+      "returns": [
+        -21.0,
+        -21.0,
+        -21.0,
+        -21.0,
+        -21.0
+      ]
+    },
+    {
+      "timesteps": 350000,
+      "elapsed_seconds": 935.8067985410162,
+      "mean_reward": -20.4,
+      "std_reward": 0.7999999999999999,
+      "returns": [
+        -19.0,
+        -20.0,
+        -21.0,
+        -21.0,
+        -21.0
+      ]
+    },
+    {
+      "timesteps": 400000,
+      "elapsed_seconds": 1057.4133015830012,
+      "mean_reward": -17.8,
+      "std_reward": 0.9797958971132713,
+      "returns": [
+        -17.0,
+        -19.0,
+        -19.0,
+        -17.0,
+        -17.0
+      ]
+    },
+    {
+      "timesteps": 450000,
+      "elapsed_seconds": 1180.7051966660074,
+      "mean_reward": -19.2,
+      "std_reward": 0.39999999999999997,
+      "returns": [
+        -19.0,
+        -19.0,
+        -20.0,
+        -19.0,
+        -19.0
+      ]
+    },
+    {
+      "timesteps": 500000,
+      "elapsed_seconds": 1321.1627970410045,
+      "mean_reward": -8.6,
+      "std_reward": 5.276362383309168,
+      "returns": [
+        -9.0,
+        -2.0,
+        -8.0,
+        -6.0,
+        -18.0
+      ]
+    },
+    {
+      "timesteps": 550000,
+      "elapsed_seconds": 1481.5016765409964,
+      "mean_reward": -2.2,
+      "std_reward": 8.772684879784524,
+      "returns": [
+        10.0,
+        -8.0,
+        4.0,
+        -15.0,
+        -2.0
+      ]
+    },
+    {
+      "timesteps": 600000,
+      "elapsed_seconds": 1628.2021181659948,
+      "mean_reward": -8.8,
+      "std_reward": 4.664761515876241,
+      "returns": [
+        -7.0,
+        -7.0,
+        -5.0,
+        -18.0,
+        -7.0
+      ]
+    },
+    {
+      "timesteps": 650000,
+      "elapsed_seconds": 1758.603196125012,
+      "mean_reward": -8.2,
+      "std_reward": 3.249615361854384,
+      "returns": [
+        -3.0,
+        -7.0,
+        -9.0,
+        -9.0,
+        -13.0
+      ]
+    },
+    {
+      "timesteps": 700000,
+      "elapsed_seconds": 1878.6135992500058,
+      "mean_reward": -9.6,
+      "std_reward": 4.5431266766402185,
+      "returns": [
+        -3.0,
+        -9.0,
+        -16.0,
+        -13.0,
+        -7.0
+      ]
+    },
+    {
+      "timesteps": 750000,
+      "elapsed_seconds": 1998.1767481660063,
+      "mean_reward": -5.2,
+      "std_reward": 3.8678159211627436,
+      "returns": [
+        2.0,
+        -8.0,
+        -6.0,
+        -9.0,
+        -5.0
+      ]
+    },
+    {
+      "timesteps": 800000,
+      "elapsed_seconds": 2114.8010571660125,
+      "mean_reward": -10.0,
+      "std_reward": 5.830951894845301,
+      "returns": [
+        -2.0,
+        -18.0,
+        -5.0,
+        -14.0,
+        -11.0
+      ]
+    },
+    {
+      "timesteps": 850000,
+      "elapsed_seconds": 2236.927022125019,
+      "mean_reward": -3.6,
+      "std_reward": 2.870540018881465,
+      "returns": [
+        -8.0,
+        -3.0,
+        -4.0,
+        -4.0,
+        1.0
+      ]
+    },
+    {
+      "timesteps": 900000,
+      "elapsed_seconds": 2395.8708875410084,
+      "mean_reward": -5.8,
+      "std_reward": 3.1874754901018454,
+      "returns": [
+        -11.0,
+        -6.0,
+        -2.0,
+        -7.0,
+        -3.0
+      ]
+    },
+    {
+      "timesteps": 950000,
+      "elapsed_seconds": 2515.6632497080136,
+      "mean_reward": 8.4,
+      "std_reward": 6.8585712797928995,
+      "returns": [
+        12.0,
+        14.0,
+        6.0,
+        14.0,
+        -4.0
+      ]
+    },
+    {
+      "timesteps": 1000000,
+      "elapsed_seconds": 2632.933656500012,
+      "mean_reward": 3.8,
+      "std_reward": 9.282241108697836,
+      "returns": [
+        6.0,
+        3.0,
+        20.0,
+        -3.0,
+        -7.0
+      ]
+    },
+    {
+      "timesteps": 1050000,
+      "elapsed_seconds": 2753.617609125009,
+      "mean_reward": 8.8,
+      "std_reward": 4.261455150532504,
+      "returns": [
+        4.0,
+        13.0,
+        9.0,
+        14.0,
+        4.0
+      ]
+    },
+    {
+      "timesteps": 1100000,
+      "elapsed_seconds": 2873.240450790996,
+      "mean_reward": -1.4,
+      "std_reward": 4.758150901348127,
+      "returns": [
+        -9.0,
+        2.0,
+        5.0,
+        -2.0,
+        -3.0
+      ]
+    },
+    {
+      "timesteps": 1150000,
+      "elapsed_seconds": 2992.5632579580124,
+      "mean_reward": 6.8,
+      "std_reward": 4.534313619501853,
+      "returns": [
+        10.0,
+        5.0,
+        8.0,
+        12.0,
+        -1.0
+      ]
+    },
+    {
+      "timesteps": 1200000,
+      "elapsed_seconds": 3112.081811333017,
+      "mean_reward": 4.8,
+      "std_reward": 4.261455150532504,
+      "returns": [
+        12.0,
+        4.0,
+        6.0,
+        -1.0,
+        3.0
+      ]
+    },
+    {
+      "timesteps": 1250000,
+      "elapsed_seconds": 3240.490139833011,
+      "mean_reward": 12.6,
+      "std_reward": 2.33238075793812,
+      "returns": [
+        13.0,
+        8.0,
+        14.0,
+        14.0,
+        14.0
+      ]
+    },
+    {
+      "timesteps": 1300000,
+      "elapsed_seconds": 3358.8352312910138,
+      "mean_reward": 11.4,
+      "std_reward": 3.7202150475476548,
+      "returns": [
+        6.0,
+        17.0,
+        13.0,
+        9.0,
+        12.0
+      ]
+    },
+    {
+      "timesteps": 1350000,
+      "elapsed_seconds": 3518.8639753329917,
+      "mean_reward": 11.8,
+      "std_reward": 3.54400902933387,
+      "returns": [
+        10.0,
+        8.0,
+        9.0,
+        15.0,
+        17.0
+      ]
+    },
+    {
+      "timesteps": 1400000,
+      "elapsed_seconds": 3686.1649419580062,
+      "mean_reward": 14.4,
+      "std_reward": 3.2619012860600183,
+      "returns": [
+        14.0,
+        16.0,
+        14.0,
+        19.0,
+        9.0
+      ]
+    },
+    {
+      "timesteps": 1450000,
+      "elapsed_seconds": 3806.076904207992,
+      "mean_reward": 12.0,
+      "std_reward": 4.147288270665544,
+      "returns": [
+        13.0,
+        12.0,
+        12.0,
+        18.0,
+        5.0
+      ]
+    },
+    {
+      "timesteps": 1500000,
+      "elapsed_seconds": 3922.7108730830078,
+      "mean_reward": 15.2,
+      "std_reward": 4.166533331199932,
+      "returns": [
+        16.0,
+        18.0,
+        7.0,
+        17.0,
+        18.0
+      ]
+    },
+    {
+      "timesteps": 1550000,
+      "elapsed_seconds": 4038.7522890830005,
+      "mean_reward": 14.0,
+      "std_reward": 2.5298221281347035,
+      "returns": [
+        17.0,
+        11.0,
+        17.0,
+        12.0,
+        13.0
+      ]
+    },
+    {
+      "timesteps": 1600000,
+      "elapsed_seconds": 4156.653075333015,
+      "mean_reward": 14.4,
+      "std_reward": 2.0591260281974,
+      "returns": [
+        12.0,
+        12.0,
+        16.0,
+        17.0,
+        15.0
+      ]
+    },
+    {
+      "timesteps": 1650000,
+      "elapsed_seconds": 4274.849575958011,
+      "mean_reward": 14.0,
+      "std_reward": 4.427188724235731,
+      "returns": [
+        14.0,
+        17.0,
+        6.0,
+        14.0,
+        19.0
+      ]
+    },
+    {
+      "timesteps": 1700000,
+      "elapsed_seconds": 4391.259197208012,
+      "mean_reward": 15.8,
+      "std_reward": 2.7856776554368237,
+      "returns": [
+        19.0,
+        15.0,
+        11.0,
+        16.0,
+        18.0
+      ]
+    },
+    {
+      "timesteps": 1750000,
+      "elapsed_seconds": 4510.975892165996,
+      "mean_reward": 12.2,
+      "std_reward": 6.493073232299171,
+      "returns": [
+        19.0,
+        18.0,
+        1.0,
+        10.0,
+        13.0
+      ]
+    },
+    {
+      "timesteps": 1800000,
+      "elapsed_seconds": 4650.70569475001,
+      "mean_reward": 14.6,
+      "std_reward": 1.7435595774162693,
+      "returns": [
+        13.0,
+        14.0,
+        14.0,
+        18.0,
+        14.0
+      ]
+    },
+    {
+      "timesteps": 1850000,
+      "elapsed_seconds": 4777.130039290991,
+      "mean_reward": 15.4,
+      "std_reward": 2.727636339397171,
+      "returns": [
+        14.0,
+        19.0,
+        11.0,
+        17.0,
+        16.0
+      ]
+    },
+    {
+      "timesteps": 1900000,
+      "elapsed_seconds": 4896.461498290999,
+      "mean_reward": 11.0,
+      "std_reward": 1.5491933384829668,
+      "returns": [
+        12.0,
+        11.0,
+        8.0,
+        12.0,
+        12.0
+      ]
+    },
+    {
+      "timesteps": 1950000,
+      "elapsed_seconds": 5084.807964000007,
+      "mean_reward": 15.8,
+      "std_reward": 2.3151673805580453,
+      "returns": [
+        18.0,
+        13.0,
+        17.0,
+        18.0,
+        13.0
+      ]
+    },
+    {
+      "timesteps": 2000000,
+      "elapsed_seconds": 5211.478804790997,
+      "mean_reward": 10.0,
+      "std_reward": 5.059644256269407,
+      "returns": [
+        13.0,
+        5.0,
+        3.0,
+        16.0,
+        13.0
+      ]
+    }
+  ],
+  "first_threshold": {
+    "timesteps": 550000,
+    "elapsed_seconds": 1481.5016765409964,
+    "mean_reward": -2.2,
+    "std_reward": 8.772684879784524,
+    "returns": [
+      10.0,
+      -8.0,
+      4.0,
+      -15.0,
+      -2.0
+    ]
+  },
+  "threshold": -5.0
+}

@@ -1,0 +1,9 @@
+stable-baselines3[extra]==2.9.2
+gymnasium[atari]>=1.2,<2
+ale-py>=0.11,<0.12
+imageio[ffmpeg]>=2.37
+ipykernel>=6
+nbformat>=5
+nbclient>=0.10
+pygame>=2.6
+moviepy>=2.2

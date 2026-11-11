@@ -1,0 +1,114 @@
+{
+  "video": "videos/aleatorio/20261106_105137/aleatorio.mp4",
+  "return_": -21.0,
+  "decisions": 851,
+  "completed": true,
+  "seed": 2026,
+  "events": [
+    {
+      "decision": 61,
+      "reward": -1.0,
+      "return_so_far": -1.0
+    },
+    {
+      "decision": 158,
+      "reward": -1.0,
+      "return_so_far": -2.0
+    },
+    {
+      "decision": 193,
+      "reward": -1.0,
+      "return_so_far": -3.0
+    },
+    {
+      "decision": 256,
+      "reward": -1.0,
+      "return_so_far": -4.0
+    },
+    {
+      "decision": 291,
+      "reward": -1.0,
+      "return_so_far": -5.0
+    },
+    {
+      "decision": 326,
+      "reward": -1.0,
+      "return_so_far": -6.0
+    },
+    {
+      "decision": 361,
+      "reward": -1.0,
+      "return_so_far": -7.0
+    },
+    {
+      "decision": 396,
+      "reward": -1.0,
+      "return_so_far": -8.0
+    },
+    {
+      "decision": 431,
+      "reward": -1.0,
+      "return_so_far": -9.0
+    },
+    {
+      "decision": 466,
+      "reward": -1.0,
+      "return_so_far": -10.0
+    },
+    {
+      "decision": 501,
+      "reward": -1.0,
+      "return_so_far": -11.0
+    },
+    {
+      "decision": 536,
+      "reward": -1.0,
+      "return_so_far": -12.0
+    },
+    {
+      "decision": 571,
+      "reward": -1.0,
+      "return_so_far": -13.0
+    },
+    {
+      "decision": 606,
+      "reward": -1.0,
+      "return_so_far": -14.0
+    },
+    {
+      "decision": 641,
+      "reward": -1.0,
+      "return_so_far": -15.0
+    },
+    {
+      "decision": 676,
+      "reward": -1.0,
+      "return_so_far": -16.0
+    },
+    {
+      "decision": 711,
+      "reward": -1.0,
+      "return_so_far": -17.0
+    },
+    {
+      "decision": 746,
+      "reward": -1.0,
+      "return_so_far": -18.0
+    },
+    {
+      "decision": 781,
+      "reward": -1.0,
+      "return_so_far": -19.0
+    },
+    {
+      "decision": 816,
+      "reward": -1.0,
+      "return_so_far": -20.0
+    },
+    {
+      "decision": 851,
+      "reward": -1.0,
+      "return_so_far": -21.0
+    }
+  ]
+}

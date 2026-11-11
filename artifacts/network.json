@@ -1,0 +1,115 @@
+{
+  "total": 1687719,
+  "trainable": 1687719,
+  "layers": [
+    {
+      "camada": "features_extractor.cnn.0.weight",
+      "formato": [
+        32,
+        4,
+        8,
+        8
+      ],
+      "parametros": 8192,
+      "treinavel": true
+    },
+    {
+      "camada": "features_extractor.cnn.0.bias",
+      "formato": [
+        32
+      ],
+      "parametros": 32,
+      "treinavel": true
+    },
+    {
+      "camada": "features_extractor.cnn.2.weight",
+      "formato": [
+        64,
+        32,
+        4,
+        4
+      ],
+      "parametros": 32768,
+      "treinavel": true
+    },
+    {
+      "camada": "features_extractor.cnn.2.bias",
+      "formato": [
+        64
+      ],
+      "parametros": 64,
+      "treinavel": true
+    },
+    {
+      "camada": "features_extractor.cnn.4.weight",
+      "formato": [
+        64,
+        64,
+        3,
+        3
+      ],
+      "parametros": 36864,
+      "treinavel": true
+    },
+    {
+      "camada": "features_extractor.cnn.4.bias",
+      "formato": [
+        64
+      ],
+      "parametros": 64,
+      "treinavel": true
+    },
+    {
+      "camada": "features_extractor.linear.0.weight",
+      "formato": [
+        512,
+        3136
+      ],
+      "parametros": 1605632,
+      "treinavel": true
+    },
+    {
+      "camada": "features_extractor.linear.0.bias",
+      "formato": [
+        512
+      ],
+      "parametros": 512,
+      "treinavel": true
+    },
+    {
+      "camada": "action_net.weight",
+      "formato": [
+        6,
+        512
+      ],
+      "parametros": 3072,
+      "treinavel": true
+    },
+    {
+      "camada": "action_net.bias",
+      "formato": [
+        6
+      ],
+      "parametros": 6,
+      "treinavel": true
+    },
+    {
+      "camada": "value_net.weight",
+      "formato": [
+        1,
+        512
+      ],
+      "parametros": 512,
+      "treinavel": true
+    },
+    {
+      "camada": "value_net.bias",
+      "formato": [
+        1
+      ],
+      "parametros": 1,
+      "treinavel": true
+    }
+  ],
+  "architecture": "ActorCriticCnnPolicy(\n  (features_extractor): NatureCNN(\n    (cnn): Sequential(\n      (0): Conv2d(4, 32, kernel_size=(8, 8), stride=(4, 4))\n      (1): ReLU()\n      (2): Conv2d(32, 64, kernel_size=(4, 4), stride=(2, 2))\n      (3): ReLU()\n      (4): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1))\n      (5): ReLU()\n      (6): Flatten(start_dim=1, end_dim=-1)\n    )\n    (linear): Sequential(\n      (0): Linear(in_features=3136, out_features=512, bias=True)\n      (1): ReLU()\n    )\n  )\n  (pi_features_extractor): NatureCNN(\n    (cnn): Sequential(\n      (0): Conv2d(4, 32, kernel_size=(8, 8), stride=(4, 4))\n      (1): ReLU()\n      (2): Conv2d(32, 64, kernel_size=(4, 4), stride=(2, 2))\n      (3): ReLU()\n      (4): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1))\n      (5): ReLU()\n      (6): Flatten(start_dim=1, end_dim=-1)\n    )\n    (linear): Sequential(\n      (0): Linear(in_features=3136, out_features=512, bias=True)\n      (1): ReLU()\n    )\n  )\n  (vf_features_extractor): NatureCNN(\n    (cnn): Sequential(\n      (0): Conv2d(4, 32, kernel_size=(8, 8), stride=(4, 4))\n      (1): ReLU()\n      (2): Conv2d(32, 64, kernel_size=(4, 4), stride=(2, 2))\n      (3): ReLU()\n      (4): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1))\n      (5): ReLU()\n      (6): Flatten(start_dim=1, end_dim=-1)\n    )\n    (linear): Sequential(\n      (0): Linear(in_features=3136, out_features=512, bias=True)\n      (1): ReLU()\n    )\n  )\n  (mlp_extractor): MlpExtractor(\n    (policy_net): Sequential()\n    (value_net): Sequential()\n  )\n  (action_net): Linear(in_features=512, out_features=6, bias=True)\n  (value_net): Linear(in_features=512, out_features=1, bias=True)\n)"
+}

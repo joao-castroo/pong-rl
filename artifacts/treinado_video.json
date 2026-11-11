@@ -1,0 +1,194 @@
+{
+  "video": "videos/treinado/20261106_202710/treinado.mp4",
+  "return_": 5.0,
+  "decisions": 2925,
+  "completed": true,
+  "seed": 2026,
+  "events": [
+    {
+      "decision": 91,
+      "reward": 1.0,
+      "return_so_far": 1.0
+    },
+    {
+      "decision": 186,
+      "reward": 1.0,
+      "return_so_far": 2.0
+    },
+    {
+      "decision": 281,
+      "reward": 1.0,
+      "return_so_far": 3.0
+    },
+    {
+      "decision": 406,
+      "reward": -1.0,
+      "return_so_far": 2.0
+    },
+    {
+      "decision": 455,
+      "reward": 1.0,
+      "return_so_far": 3.0
+    },
+    {
+      "decision": 580,
+      "reward": -1.0,
+      "return_so_far": 2.0
+    },
+    {
+      "decision": 629,
+      "reward": 1.0,
+      "return_so_far": 3.0
+    },
+    {
+      "decision": 694,
+      "reward": -1.0,
+      "return_so_far": 2.0
+    },
+    {
+      "decision": 760,
+      "reward": 1.0,
+      "return_so_far": 3.0
+    },
+    {
+      "decision": 855,
+      "reward": 1.0,
+      "return_so_far": 4.0
+    },
+    {
+      "decision": 980,
+      "reward": -1.0,
+      "return_so_far": 3.0
+    },
+    {
+      "decision": 1029,
+      "reward": 1.0,
+      "return_so_far": 4.0
+    },
+    {
+      "decision": 1154,
+      "reward": -1.0,
+      "return_so_far": 3.0
+    },
+    {
+      "decision": 1189,
+      "reward": -1.0,
+      "return_so_far": 2.0
+    },
+    {
+      "decision": 1224,
+      "reward": -1.0,
+      "return_so_far": 1.0
+    },
+    {
+      "decision": 1273,
+      "reward": 1.0,
+      "return_so_far": 2.0
+    },
+    {
+      "decision": 1338,
+      "reward": -1.0,
+      "return_so_far": 1.0
+    },
+    {
+      "decision": 1404,
+      "reward": 1.0,
+      "return_so_far": 2.0
+    },
+    {
+      "decision": 1499,
+      "reward": 1.0,
+      "return_so_far": 3.0
+    },
+    {
+      "decision": 1624,
+      "reward": -1.0,
+      "return_so_far": 2.0
+    },
+    {
+      "decision": 1673,
+      "reward": 1.0,
+      "return_so_far": 3.0
+    },
+    {
+      "decision": 1798,
+      "reward": -1.0,
+      "return_so_far": 2.0
+    },
+    {
+      "decision": 1862,
+      "reward": -1.0,
+      "return_so_far": 1.0
+    },
+    {
+      "decision": 1897,
+      "reward": -1.0,
+      "return_so_far": 0.0
+    },
+    {
+      "decision": 1950,
+      "reward": -1.0,
+      "return_so_far": -1.0
+    },
+    {
+      "decision": 2015,
+      "reward": 1.0,
+      "return_so_far": 0.0
+    },
+    {
+      "decision": 2110,
+      "reward": 1.0,
+      "return_so_far": 1.0
+    },
+    {
+      "decision": 2205,
+      "reward": 1.0,
+      "return_so_far": 2.0
+    },
+    {
+      "decision": 2330,
+      "reward": -1.0,
+      "return_so_far": 1.0
+    },
+    {
+      "decision": 2379,
+      "reward": 1.0,
+      "return_so_far": 2.0
+    },
+    {
+      "decision": 2444,
+      "reward": -1.0,
+      "return_so_far": 1.0
+    },
+    {
+      "decision": 2479,
+      "reward": -1.0,
+      "return_so_far": 0.0
+    },
+    {
+      "decision": 2545,
+      "reward": 1.0,
+      "return_so_far": 1.0
+    },
+    {
+      "decision": 2640,
+      "reward": 1.0,
+      "return_so_far": 2.0
+    },
+    {
+      "decision": 2735,
+      "reward": 1.0,
+      "return_so_far": 3.0
+    },
+    {
+      "decision": 2830,
+      "reward": 1.0,
+      "return_so_far": 4.0
+    },
+    {
+      "decision": 2925,
+      "reward": 1.0,
+      "return_so_far": 5.0
+    }
+  ]
+}
